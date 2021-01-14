@@ -79,5 +79,7 @@ public final class AddressViewController: UIViewController {
     }
     address = Address(street: street, city: city,
                       state: state, zipCode: zipCode)
+    
+    testing
   }
 }
